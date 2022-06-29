@@ -1,0 +1,3 @@
+C:/Users/jsmith/Documents/codingPractice/c++Learning/cmake-build-debug/CMakeFiles/c__Learning.dir
+C:/Users/jsmith/Documents/codingPractice/c++Learning/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jsmith/Documents/codingPractice/c++Learning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
