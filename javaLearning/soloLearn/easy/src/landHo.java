@@ -6,11 +6,6 @@ public class landHo {
 
         int lineOfPeople= input.nextInt()+1;
 
-       if(lineOfPeople<=16){
-           System.out.println(10);
-       }
-       else {
-           System.out.println(lineOfPeople%16);
-       }
+           System.out.println((lineOfPeople/20)*20+10);
     }
 }
